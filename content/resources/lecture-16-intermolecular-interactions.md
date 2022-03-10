@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Intermolecular Interactions (PDF)](resources/lecture16)'
+related_resources_text: '[Intermolecular Interactions (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture16)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Intermolecular Interactions'

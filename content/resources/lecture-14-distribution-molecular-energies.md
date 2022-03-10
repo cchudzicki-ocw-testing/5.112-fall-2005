@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Kinetic Theory\_\u2011\_Behavior of Gases (PDF)](resources/lecture14)"
+related_resources_text: "[Kinetic Theory\_\u2011\_Behavior of Gases (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture14)"
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Distribution Molecular Energies'

@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Ligand Substitution Reactions: Kinetics (PDF)](resources/lecture33)'
+related_resources_text: '[Ligand Substitution Reactions: Kinetics (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture33)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 33: Ligand Substitution Reactions: Kinetics'

@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Titration Curves and pH Indicators (PDF)](resources/lecture21)'
+related_resources_text: '[Titration Curves and pH Indicators (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture21)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Titration Curves and pH Indicators'

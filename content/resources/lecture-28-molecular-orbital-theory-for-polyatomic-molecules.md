@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Molecular Orbital Theory for Polyatomic Molecules (PDF)](resources/lecture28)'
+related_resources_text: '[Molecular Orbital Theory for Polyatomic Molecules (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture28)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 28: Molecular Orbital Theory for Polyatomic Molecules'

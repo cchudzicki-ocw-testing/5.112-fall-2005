@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Thermodynamics and Spontaneous Change (PDF)](resources/lecture18)'
+related_resources_text: '[Thermodynamics and Spontaneous Change (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture18)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 18: Thermodynamics and Spontaneous Change'

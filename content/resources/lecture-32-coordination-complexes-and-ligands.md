@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Coordination Complexes and Ligands (PDF)](resources/lecture32)'
+related_resources_text: '[Coordination Complexes and Ligands (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture32)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 32: Coordination Complexes and Ligands'

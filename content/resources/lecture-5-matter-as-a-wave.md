@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Matter as a Wave (PDF)](resources/lecture5)'
+related_resources_text: '[Matter as a Wave (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture5)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Matter as a Wave'

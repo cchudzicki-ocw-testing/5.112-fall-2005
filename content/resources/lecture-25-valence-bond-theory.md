@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Valence Bond Theory (PDF)](resources/lecture25)'
+related_resources_text: '[Valence Bond Theory (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture25)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Valence Bond Theory'

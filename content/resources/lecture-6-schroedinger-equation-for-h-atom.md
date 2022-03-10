@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Schr\xF6dinger Equation for H Atom (PDF)](resources/lecture6)"
+related_resources_text: "[Schr\xF6dinger Equation for H Atom (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture6)"
 resource_index_text: ''
 resourcetype: Video
 title: "Lecture 6: Schr\xF6dinger Equation for H Atom"

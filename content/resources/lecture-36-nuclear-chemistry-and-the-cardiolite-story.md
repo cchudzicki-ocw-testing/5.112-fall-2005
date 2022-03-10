@@ -9,11 +9,11 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '([PDF 1](resources/8_14_from_l36)){{< sup "#" >}} (Courtesy
-  of Dr. James Kronauge, Jr. Used with permission.)
+related_resources_text: '([PDF 1](/courses/5-112-principles-of-chemical-science-fall-2005/resources/8_14_from_l36)){{<
+  sup "#" >}} (Courtesy of Dr. James Kronauge, Jr. Used with permission.)
 
 
-  ([PDF 2](resources/15_froml36))'
+  ([PDF 2](/courses/5-112-principles-of-chemical-science-fall-2005/resources/15_froml36))'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 36: Nuclear Chemistry and the Cardiolite Story'

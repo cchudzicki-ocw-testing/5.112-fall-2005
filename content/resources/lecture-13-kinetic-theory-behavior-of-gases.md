@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "[Ionic Bonds\_\u2011\_Classical Model and Mechanism (PDF)](resources/lecture13)"
+related_resources_text: "[Ionic Bonds\_\u2011\_Classical Model and Mechanism (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture13)"
 resource_index_text: ''
 resourcetype: Video
 title: "Lecture 13: Kinetic Theory \u2011 Behavior of Gases"

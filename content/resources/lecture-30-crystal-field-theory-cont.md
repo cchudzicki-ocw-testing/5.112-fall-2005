@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Crystal Field Theory (PDF)](resources/lecture29_30)'
+related_resources_text: '[Crystal Field Theory (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture29_30)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 30: Crystal Field Theory (cont.)'

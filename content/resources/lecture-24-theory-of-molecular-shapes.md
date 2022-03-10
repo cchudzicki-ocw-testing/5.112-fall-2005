@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Theory of Molecular Shapes (PDF)](resources/lecture24)'
+related_resources_text: '[Theory of Molecular Shapes (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture24)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Theory of Molecular Shapes'

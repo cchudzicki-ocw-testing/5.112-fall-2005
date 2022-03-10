@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Bonding in Metals and Semiconductors (PDF)](resources/lecture34)'
+related_resources_text: '[Bonding in Metals and Semiconductors (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture34)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 34: Bonding in Metals and Semiconductors'

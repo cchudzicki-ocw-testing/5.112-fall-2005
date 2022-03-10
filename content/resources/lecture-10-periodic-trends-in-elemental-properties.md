@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Periodic Trends in Elemental Properties (PDF)](resources/lecture10)'
+related_resources_text: '[Periodic Trends in Elemental Properties (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture10)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Periodic Trends in Elemental Properties'

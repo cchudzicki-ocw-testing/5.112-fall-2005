@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Molecular Orbital Theory (PDF)](resources/lecture26)'
+related_resources_text: '[Molecular Orbital Theory (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture26)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 26: Molecular Orbital Theory'

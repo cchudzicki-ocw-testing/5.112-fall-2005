@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Molecular Description of Acids and Bases (PDF)](resources/lecture19)'
+related_resources_text: '[Molecular Description of Acids and Bases (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture19)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 19: Molecular Description of Acids and Bases'

@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Wave-Particle Duality of Radiation and Matter (PDF)](resources/lecture3)'
+related_resources_text: '[Wave-Particle Duality of Radiation and Matter (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture3)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Wave-Particle Duality of Radiation and Matter'

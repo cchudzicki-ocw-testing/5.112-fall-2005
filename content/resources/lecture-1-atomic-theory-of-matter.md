@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Atomic Theory of Matter (PDF)](resources/lecture1)'
+related_resources_text: '[Atomic Theory of Matter (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture1)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Atomic Theory of Matter'

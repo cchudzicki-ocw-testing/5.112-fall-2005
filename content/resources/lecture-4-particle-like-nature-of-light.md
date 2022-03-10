@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Particle-Like Nature of Light (PDF)](resources/lecture4)'
+related_resources_text: '[Particle-Like Nature of Light (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture4)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Particle-Like Nature of Light'

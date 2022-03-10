@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: '[Internal Degrees of Freedom (PDF)](resources/lecture15)'
+related_resources_text: '[Internal Degrees of Freedom (PDF)](/courses/5-112-principles-of-chemical-science-fall-2005/resources/lecture15)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Internal Degrees of Freedom'
